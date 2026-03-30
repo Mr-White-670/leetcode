@@ -1,0 +1,19 @@
+*very Important*
+  time and space complexity- big-O.
+  basics of arrays, strings, variables loops and functions.
+
+    *Arrays                      *Strings                  *Recursion                 *Searching and sorting
+    -traversal                    -palindrome               -base case                  -linear search
+    -prefix sum                   -anagram                  -recursive calls            -binary search
+    -two pointers                 -frequency count          -stack count                -bubble,selection,insertion
+    -sliding window                                                                     -merge sort, quick sort
+
+  *Hashing                       *Stack                     *Queue
+  -hashmap                       -next greater element        -queue and deque
+  -frequency problem             -valid parenthesis           -sliding window problems
+  -sub array problems            -backtracking
+
+  *Trees                                *heap                      *Graphs                     *dynamic prog.
+  -binary,tree traversal(bfs,dfs)         -min and max heap          -bfs, dfs                  -memorizartion
+  -binary search tree                     -top k problems            -cycle detections          -tabulation
+                                                                     -shortest path basics      -classic dp problem
